@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 
   if(!strcmp(buffer, "the password"))
   {
-    printf("FLAG:db2f62a36a018bce28e46d976e3f9864\n");
+    printf("CTF{db2f62a36a018bce28e46d976e3f9864}\n");
   }
   else
   {
